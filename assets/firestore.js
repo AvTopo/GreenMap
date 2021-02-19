@@ -34,8 +34,8 @@ function writeData() {
         decription: "DESCRIBE THIS PLACE", 
         lat: 50.131740901392526,
         lon: 8.683982024924777,
-        url: "<a href="http://LINK TO FURTHER INFORMATION/">Lesen Sie mehr auf unserer Webseite</a>" 
-		imageUrl: "LINK TO PREVIEW IMAGE"
-		owner: "NAME OF THE RECOMMENDING PERSON"
+        url: "<a href="http://LINK TO FURTHER INFORMATION/">Lesen Sie mehr auf unserer Webseite</a>", 
+	imageUrl: "LINK TO PREVIEW IMAGE",
+	owner: "NAME OF THE RECOMMENDING PERSON"
     });
 }
